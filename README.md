@@ -2,6 +2,7 @@
 
 This code belongs to [Suphi](https://gitlab.com/Suphi), it is uploaded here for integration purposes with other github projects. For the original repository, see [here](https://gitlab.com/Suphi/Tello). 
 
+---
 
 ### About
 This project uses GTK to display tello data and also allows you to control your tello using a gamepad (tested on xbox 360 controller)
